@@ -19,7 +19,6 @@
     bottom: -100px;
     left: 0%;
     width: 100%;
-    
 }
 .medju{
    background-color: #fff;
@@ -67,7 +66,6 @@ box-shadow: 5px 30px rgba(128, 128, 128, 0.301);
 .treca{
     position: relative;
     background-color: rgb(199, 199, 199);
-    
 }
 .padd{
     padding-left: 75px;
@@ -152,7 +150,6 @@ box-shadow: 5px 30px rgba(128, 128, 128, 0.301);
         padding-right: 0;
     }
   }
-
   @media screen and (min-width: 1300px) {
     .padd{
         padding-left: 220px;
